@@ -86,6 +86,8 @@ AI offers substantial advantages for cybersecurity, grouped as follows:
    - AI can process vast data from diverse sources, essential for detecting sophisticated attacks and coordinating responses across systems.
 
 ---
+![AI Integration in SME’s Cybersecurity]()
+)
 
 ## Integrating AI into Cybersecurity
 

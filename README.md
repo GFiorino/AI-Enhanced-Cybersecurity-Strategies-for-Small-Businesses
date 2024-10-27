@@ -67,8 +67,8 @@ Building a robust cybersecurity foundation is essential for any SME. Below are s
 ---
 
 ## Benefits of AI in Cybersecurity
-
-AI offers substantial advantages for cybersecurity, grouped as follows:
+![SME AI IMAGE
+](https://github.com/GFiorino/AI-Enhanced-Cybersecurity-Strategies-for-Small-Businesses/blob/main/SME-AI_Image.png?raw=true)AI offers substantial advantages for cybersecurity, grouped as follows:
 
 ### 1. Improved Accuracy
    - AI can identify threats beyond human capabilities, detecting new malware and unusual patterns in network traffic through behavior analysis and continuous learning.
@@ -86,7 +86,6 @@ AI offers substantial advantages for cybersecurity, grouped as follows:
    - AI can process vast data from diverse sources, essential for detecting sophisticated attacks and coordinating responses across systems.
 
 ---
-![AI Integration in SME’s Cybersecurity](https://github.com/GFiorino/AI-Enhanced-Cybersecurity-Strategies-for-Small-Businesses/blob/main/SME-AI-Integration.png?raw=true)
 
 ## Integrating AI into Cybersecurity
 

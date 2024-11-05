@@ -1,6 +1,9 @@
 # AI-Enhanced Cybersecurity Strategies for Small Businesses
-
 This repository provides small and medium-sized enterprises (SMEs) with a practical guide to strengthen cybersecurity by leveraging AI. Covering essential best practices, AI-driven tools, and actionable steps, this guide helps SMEs protect their digital assets efficiently and effectively.
+
+![Ai-Cybersecurity
+](https://github.com/GFiorino/AI-Enhanced-Cybersecurity-Strategies-for-Small-Businesses/blob/main/AI-Cybersecurity.png?raw=true)
+
 
 ## Executive Summary
 
